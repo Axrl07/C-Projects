@@ -16,6 +16,5 @@ int main(){
     nombre[2] = 'r';
     cout << "cambió a " << nombre << endl;
 
-
     return 0;
 }
